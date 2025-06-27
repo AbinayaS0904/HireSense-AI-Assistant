@@ -1,6 +1,7 @@
 # HireSense-AI-Assistant
 
 Project Overview
+
 HireSense AI is an AI-powered virtual interviewer designed to modernize and automate the technical hiring process. It intelligently conducts structured interviews, generates role-specific questions based on a candidate’s experience level, evaluates responses, and provides a hiring probability score. The system seamlessly integrates AI-driven question generation, secure authentication, and robust database management to deliver an efficient, scalable hiring assistant.
 
 Features
